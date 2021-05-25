@@ -1,0 +1,95 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.17f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.17f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4228 outsize=4227 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(31): syntax error: unexpected token 'return'
+  api=4 insize=4227 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4229 outsize=4228 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4228 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=4374 outsize=4373 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4373 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=4229 outsize=4228 ok=1
+Cmd: preprocessCompute
+  insize=3739 outsize=3738 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3738 outsize=3229 ok=1
+Cmd: preprocessCompute
+  insize=3735 outsize=3734 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3734 outsize=3229 ok=1
+Cmd: preprocessCompute
+  insize=4219 outsize=4218 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4218 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=4577 outsize=4576 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(111): invalid subscript 'specular'
+  api=4 insize=4576 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4219 outsize=4218 ok=1
+Cmd: preprocessCompute
+  insize=3936 outsize=3935 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(100): undeclared identifier '_Spheres'
+  api=4 insize=3935 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=3974 outsize=3973 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(18): syntax error: unexpected token 'Sphere'
+  api=4 insize=3973 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4081 outsize=4080 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4080 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=3936 outsize=3935 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(100): undeclared identifier '_Spheres'
+  api=4 insize=3935 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4081 outsize=4080 ok=1
+Cmd: preprocessCompute
+  insize=4609 outsize=4608 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4608 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=4930 outsize=4929 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4929 outsize=223 ok=1
+Cmd: preprocessCompute
+  insize=5144 outsize=5143 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(88): invalid subscript 'albedo'
+  api=4 insize=5143 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=5125 outsize=5124 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(88): invalid subscript 'albedo'
+  api=4 insize=5124 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=5097 outsize=5096 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(72): invalid subscript 'albedo'
+  api=4 insize=5096 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=5445 outsize=5444 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5444 outsize=5582 ok=1
+Cmd: preprocessCompute
+  insize=5097 outsize=5096 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(72): invalid subscript 'albedo'
+  api=4 insize=5096 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=5447 outsize=5446 ok=1
+Cmd: preprocessCompute
+  insize=5104 outsize=5103 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5103 outsize=5582 ok=1
